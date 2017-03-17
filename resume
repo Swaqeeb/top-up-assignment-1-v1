@@ -1,0 +1,91 @@
+# top-up-assignment-1
+<html>
+<body style="background-color:gray;">
+     <div style="position:absolute;top:110px;left:800px;color:black;">
+      <p>Najmus Swaqeeb Anik<br>JA-40(Top Floor), MOHAKHALI, DHAKA<br> cell# 01717589988<br>najmus.swaqeeb@gmail.com</p>
+    </div>
+<div style="padding-left:0px;margin-top:10px; ">
+<h1 style="font-size:36pt;"><i><span style="color:E17862;">Resume of Md. Najmus Swaqeeb</i></h1>
+<div style="padding-left:150px;margin-top:3px; ">
+<img src="p.jpg" alt="PRO PIC" width="600" height="350">
+
+</div>
+<div id="menu" style="background-color:white;width:150px;height:700px;float:left;">
+</div>
+<div id="content" style="background-color:white;float:left;width:700px;height:1800px;">
+<pre><h1 style="font-size:25pt;">Profile:</h1>
+To use my knowledge of Computer Science, my communication skills and my motivational abilities in
+order to provide value to the organization as well as those under my guidance. 
+<h1 style="font-size:25pt;">Education and qualification:</h1>
+      <table ">
+<tr>
+    <th>Qualification</th>
+    <th>Result</th>
+    
+    
+    <th>Institution</th>
+    <th>Bord/University</th>
+</tr
+<tr>
+    <td>BS.C(CSE) in progress</td>
+    <td>-----</td>
+    
+    <td>BRAC University</td>
+    <td>University</td>
+ 
+</tr>
+<tr>
+    <td>H.S.C</td>
+    <td>4.60</td>
+    <td>Dinajpur Govt. Collage</td>
+    <td>Dinajpur</td>
+  
+</tr>
+<tr>
+    <td>S.S.C</td>
+    <td>5.00</td>
+    
+    <td>Dinajpur Zilla School</td>
+    
+    <td>Rajshai </td>
+</tr>
+
+</table>
+<hr>
+<h1 style="font-size:15pt;">Technical Experiences:</h1>
+      Languages:                  JAVA, HTML,CSS,PHP,MAT LAB
+      Platforms:                  Windows 10,8.1,7.XP,98 Linux 
+      Databases: 	          MySQL, MS Access
+      Design:                     UML,ER,EER
+      Concepts:                   Networking, operating systems
+	  
+<hr>
+<h1 style="font-size:15pt;">Abilities:</h1>
+      Skill Level                 MS Word, MS Excel, Power point,MS Outlook
+      practiced                   More than 1 years
+<hr>
+<h1 style="font-size:15pt;">Affiliations:</h1>
+                                 <ul>
+		    Director, IT (BRAC University Club with BRAC)
+		    Senior Member at BUCC (BRAC University Computer Club)
+								 
+                                 </ul>
+                               
+<hr>
+<h1 style="font-size:15pt;">Personal skills:</h1>
+                                  1.Honesty<br>
+                                  2.Team Spirit<br>
+                                  3.Accepting Challenges
+<hr>  
+<h1 style="font-size:15pt;">Languages:</h1>
+                                 English,Bengali
+<hr>                   
+<h1 style="font-size:15pt;">Iinterestes:</h1>
+                                  1.Internet browsing
+                                  2.Reading books
+<hr>
+<h1 style="font-size:15pt;">References:</h1>
+                                  References are available upon request.</pre>
+</div>
+</body>
+</html>
